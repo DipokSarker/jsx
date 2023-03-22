@@ -1,4 +1,7 @@
 import ProfileCard from "./ProfileCard";
+import AlexaImage from './images/alexa99.png';
+import CortanaImage from './images/cortana32.png';
+import SiriImage from './images/siri01.png';
 
 function App() {
     return (
